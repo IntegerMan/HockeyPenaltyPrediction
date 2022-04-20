@@ -1,0 +1,7 @@
+dependencies:
+  - python=3.6.2
+  - scikit-learn
+  - numpy
+  - pandas
+  - pip:
+    - azureml-defaults
